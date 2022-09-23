@@ -15,7 +15,7 @@ www.reubotics.com
 
 Apache 2 License
 
-Software Revision F, 08/29/2022
+Software Revision G, 09/21/2022
 
 Verified working on: 
 Python 2.7, 3.8.
@@ -30,6 +30,6 @@ Raspberry Pi Buster
 HelperFunctions_ClassFunctions_ReubenPython2and3, ListOfModuleDependencies: ['ftd2xx', 'future.builtins', 'scipy.spatial.transform', 'serial', 'serial.tools']
 HelperFunctions_ClassFunctions_ReubenPython2and3, ListOfModuleDependencies_TestProgram: []
 HelperFunctions_ClassFunctions_ReubenPython2and3, ListOfModuleDependencies_NestedLayers: []
-HelperFunctions_ClassFunctions_ReubenPython2and3, ListOfModuleDependencies_All: ['ftd2xx', 'future.builtins', 'scipy.spatial.transform', 'serial', 'serial.tools']
+HelperFunctions_ClassFunctions_ReubenPython2and3, ListOfModuleDependencies_All:['ftd2xx', 'future.builtins', 'scipy.spatial.transform', 'serial', 'serial.tools']
 
 ###########################
